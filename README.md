@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Server Setup
+- Sever Setup
 - Web Server
 - IIS and CGI enabling
 - PHP Installation
@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Email Configuration
 - Directory Permissions
 
-<h2>Server Setup</h2>
+<h2>Sever Set Up</h2><p>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -204,4 +204,96 @@ If prompted, select the installation options that suit your needs. The default s
 </p>
 <br />
 
+<h2>Creating the directory C:\PHP</h2>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Creating the directory C:\PHP is essential when setting up a web server or developing PHP applications. It promotes organizational structure by keeping scripts and libraries separate, simplifies web server configuration as it can serve as the document root, and aligns with the directory requirements of many PHP frameworks. This dedicated directory also facilitates local development, makes path management easier, and supports proper PHP installation and deployment practices. Overall, establishing a clear directory structure from the outset enhances project manageability and efficiency.
+<br />
+
+<strong>Insalltion Steps</strong>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Open File Explorer: You can do this by pressing Windows + E or clicking on the File Explorer icon in the taskbar.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Navigate to the C: Drive: Click on "This PC" or "Computer" in the left sidebar, then double-click on the C: drive.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Create a New Folder:
+Right-click in an empty space in the directory.
+Select New > Folder from the context menu.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Rename the Folder: The new folder will be highlighted for renaming. Type PHP and press Enter.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Rename the Folder: The new folder will be highlighted for renaming. Type PHP and press Enter.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+FRight-Click the Zip File: Right-click on the php-7.3.8-nts-Win32-VC15-x86.zip file.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Extract the Files:
+Select Extract All... from the context menu.
+In the dialog that appears, set the destination to C:\PHP. If it’s not automatically filled, type C:\PHP in the text box.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Start Extraction: Click the Extract button to begin unzipping the files.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Verify the Extraction: Once the extraction is complete, navigate to C:\PHP to ensure that the PHP files have been successfully extracted.
+</p>
+<br />
 
