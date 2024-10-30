@@ -289,11 +289,68 @@ Start Extraction: Click the Extract button to begin unzipping the files.
 </p>
 <br />
 
+<strong>From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe.
+</strong>
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Verify the Extraction: Once the extraction is complete, navigate to C:\PHP to ensure that the PHP files have been successfully extracted.
+Installing VC_redist.x86.exe (the Visual C++ Redistributable) is essential when setting up an osTicket system, as it provides the necessary runtime components that many PHP applications rely on. This installation ensures compatibility with various PHP extensions and libraries, preventing runtime errors related to missing or incompatible C++ libraries. By including the redistributable, you simplify the setup process, ensuring that all required components are present for a smooth and effective osTicket operation.
 </p>
 <br />
+
+<h2>Database Setup</h2>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Installing MySQL 5.5.62 from the “osTicket-Installation-Files” folder is essential for setting up an osTicket system, as it provides the necessary database management for storing tickets, users, and settings. This specific version ensures compatibility with osTicket, minimizing potential issues from using unsupported database versions. It is optimized for the performance needs of osTicket, streamlining the setup process and enabling key features like ticketing and user management. Overall, installing MySQL is crucial for ensuring a reliable and efficient operation of the osTicket system.
+</p>
+<br />
+
+<strong>Here are the steps to install MySQL 5.5.62 </strong>
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Locate the Installation File
+Open the “osTicket-Installation-Files” Folder: Navigate to the directory where you have the osTicket installation files.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Find the MySQL Installer: Look for the file named mysql-5.5.62-win32.msi.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ Run the Installer
+Double-Click the Installer: Right-click on mysql-5.5.62-win32.msi and select Run as administrator. This ensures you have the necessary permissions for installation.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  Follow the Installation Wizard
+Welcome Screen: Click Next to begin the installation.
+License Agreement: Read the license agreement, select I accept the terms in the license agreement, and click Next.</p>
+<br />
+
+
+
+
+
+
+
 
