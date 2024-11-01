@@ -20,7 +20,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - [osTicket Installation Files](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)
-- Azure Cloud Compute with VM Setup ([Refer to my tutorial on setting up a VM](https://github.com/JackieG8803/Creating-a-Virtual-Machine-in-Azure))
+- Azure Cloud Compute with VM Setup 
 <p>Here is an explanation detailing the dependencies and how it interacts with osTicket:</p>
 <p>HeidiSQL: a free and open-source database management tool for MySQL (another dependency we will use) to create and maange the MySQL database that osTicket uses to store all ticket data, user information, configurations, etc.</p>
 <p>MySQL: a database management system that osTicket uses to store and retrieve all of its data; essential for providing the backend storage of all osTicket information; allowing efficient querying and management of ticket data; enabling data persistence across server restarts</p>
