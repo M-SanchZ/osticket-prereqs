@@ -137,8 +137,9 @@ Navigate back to your osTicket website and continue on with the installation.</p
 <p>Set up simple system settings. Make sure you remember your username and password as that will be needed in a subsequent step.</p>
 
 ![image](https://github.com/user-attachments/assets/b76ceb57-3986-4421-b1a7-ad35503efdcb)
+![image](https://github.com/user-attachments/assets/5478a606-5b37-4c81-b256-ff2e74d14b1d)
+![image](https://github.com/user-attachments/assets/14e6ce3e-6906-4680-b163-fec5f0282c6c)
 
-![21](https://github.com/user-attachments/assets/4fa0dd33-38ea-4d02-809e-7460db241b6b)
 
 <p>Before we continue any further, let's install HeidiSQL. Navigate back to the osTicket Installation Files folder and install HeidiSQL.</p>
 
