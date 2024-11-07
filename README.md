@@ -168,7 +168,10 @@ MySQL Username: root
 MySQL Password: root
 <p>Click "Install Now"</p>
 
-![25](https://github.com/user-attachments/assets/36305679-b3ad-421a-abc8-589dc635595a)
+![image](https://github.com/user-attachments/assets/b76ceb57-3986-4421-b1a7-ad35503efdcb)
+![image](https://github.com/user-attachments/assets/5478a606-5b37-4c81-b256-ff2e74d14b1d)
+![image](https://github.com/user-attachments/assets/14e6ce3e-6906-4680-b163-fec5f0282c6c)
+
 <p>
 We are all setup! If you followed the steps correctly, you should end up at this page.</p>
 
@@ -176,5 +179,11 @@ We are all setup! If you followed the steps correctly, you should end up at this
 
 
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php
+![image](https://github.com/user-attachments/assets/0b65353b-2f19-4452-a442-933ea8cc2080)
+
 
 End Users osTicket URL: http://localhost/osTicket/ 
+
+![image](https://github.com/user-attachments/assets/8879bfd0-4d7a-4416-bcbd-5350f588b752)
+![image](https://github.com/user-attachments/assets/63dbc619-96b3-4c3d-ac2f-daaa8999ad1a)
+
