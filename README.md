@@ -171,3 +171,7 @@ We are all setup! If you followed the steps correctly, you should end up at this
 
 ![26](https://github.com/user-attachments/assets/f6862947-dec2-42d2-af8c-af2829c7d648)
 
+
+Browse to your help desk login page: http://localhost/osTicket/scp/login.php
+
+End Users osTicket URL: http://localhost/osTicket/ 
