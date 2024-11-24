@@ -25,7 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>HeidiSQL: a free and open-source database management tool for MySQL (another dependency we will use) to create and maange the MySQL database that osTicket uses to store all ticket data, user information, configurations, etc.</p>
 <p>MySQL: a database management system that osTicket uses to store and retrieve all of its data; essential for providing the backend storage of all osTicket information; allowing efficient querying and management of ticket data; enabling data persistence across server restarts</p>
 <p>PHP Manager: a tool for configuring and managing PHP settings in IIS to allow easy configuratiion of PHP settings required by osTicket, and enables management of PHP extensions by osTicket such as php_imap.dll and php_intl.dll</p>
-<p>URL Rewrite Module: allows the creation of cleaner, more user-friendly URLs</p>
+<p>URL Rewrite Module: allows the creation of cleaner, more user-friendly URLs</p> 
 <p>Visual C++ Redistributable: Contains runtime components of Visual C++ libraries; common to have installed on your home computer as it contains libraries of C++ functions such as math functions, input/output operations, and memory management. </p>
 
 <h2>Installation Steps</h2>
